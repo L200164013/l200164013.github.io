@@ -1,0 +1,7 @@
+<html>
+<img src='Poto'></img>
+<video width="320" height="240" controls>
+  <source src="Pideo.mp4" type="video/mp4">
+  <source src="Pideo.ogg" type="video/ogg">
+</video>
+</html>
